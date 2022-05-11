@@ -1,0 +1,8 @@
+,score
+Model,SVC()
+Macro-P positive,0.9623250025196858
+Macro-R positive,0.9888256902513035
+Macro-F1 positive,0.9752545914932359
+Macro-P negative,0.5827380952380952
+Macro-R negative,0.4401925761681859
+Macro-F1 negative,0.4929359851673344

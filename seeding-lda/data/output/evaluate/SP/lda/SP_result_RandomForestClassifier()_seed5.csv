@@ -1,0 +1,8 @@
+,score
+Model,RandomForestClassifier()
+Macro-P positive,0.971121707641333
+Macro-R positive,0.9787469067154113
+Macro-F1 positive,0.9747305366626562
+Macro-P negative,0.7779717212246411
+Macro-R negative,0.5980883163809994
+Macro-F1 negative,0.6511780508611138

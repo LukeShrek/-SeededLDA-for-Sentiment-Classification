@@ -1,0 +1,8 @@
+,score
+Model,LogisticRegression()
+Macro-P positive,0.975880153898168
+Macro-R positive,0.9686170415496016
+Macro-F1 positive,0.9717714105572558
+Macro-P negative,0.7623120343708578
+Macro-R negative,0.6559789239667289
+Macro-F1 negative,0.6709810600803117

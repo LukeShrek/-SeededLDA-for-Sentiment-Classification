@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/GuidedLDA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Insight_Project_SHV" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Opinion-Mining" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Vietnamese-E-commerce-Dataset" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seeding-lda" vcs="Git" />
+  </component>
+</project>

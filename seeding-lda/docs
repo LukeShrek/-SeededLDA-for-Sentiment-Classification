@@ -1,0 +1,8 @@
+1. Dùng chi2 ko dùng seed
+- comment dòng: model.lda_dict()
+- trong hàm: train_SP_chi2
+- file BIN_pipeline.py
+
+2. Dùng chi2 + seed
+- để cả model.chi2_dict_lda() và model.lda_dict()
+Note: ko được để model.lda_dict() trước dòng model.chi2_dict_lda()

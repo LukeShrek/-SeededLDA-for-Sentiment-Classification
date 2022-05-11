@@ -1,0 +1,5 @@
+.idea
+.xml
+__pycache__
+venv
+vncorenlp

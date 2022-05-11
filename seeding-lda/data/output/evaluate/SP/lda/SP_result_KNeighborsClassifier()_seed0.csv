@@ -1,0 +1,8 @@
+,score
+Model,KNeighborsClassifier()
+Macro-P positive,0.9563009903505209
+Macro-R positive,0.9246059080821423
+Macro-F1 positive,0.9369326546328025
+Macro-P negative,0.3934831247895859
+Macro-R negative,0.38735833949248577
+Macro-F1 negative,0.2793758477903905

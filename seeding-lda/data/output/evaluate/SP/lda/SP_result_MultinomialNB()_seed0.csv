@@ -1,0 +1,8 @@
+,score
+Model,MultinomialNB()
+Macro-P positive,0.9575967898828821
+Macro-R positive,0.9841093627372386
+Macro-F1 positive,0.9703816852544035
+Macro-P negative,0.558924531351002
+Macro-R negative,0.4260365707012048
+Macro-F1 negative,0.4562256917411594

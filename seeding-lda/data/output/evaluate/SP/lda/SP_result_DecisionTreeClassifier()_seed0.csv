@@ -1,0 +1,8 @@
+,score
+Model,DecisionTreeClassifier()
+Macro-P positive,0.9733572941728441
+Macro-R positive,0.9271096624483075
+Macro-F1 positive,0.9474165300874736
+Macro-P negative,0.5317886010203454
+Macro-R negative,0.660763998873755
+Macro-F1 negative,0.5729692221358889
